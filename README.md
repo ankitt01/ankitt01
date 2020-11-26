@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Ankit Singh Rawat</h1>
+<h1 align="center">I'm Ankit Singh Rawat</h1>
 <h3 align="center">A passionate JavaScript Web Developer from India</h3><br>
 
 - 🌱 I’m currently learning **React and Nodejs**

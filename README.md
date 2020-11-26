@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React and Nodejs**
 
+- 👯 I’m looking to collaborate on interesting projects.
+
 - 👨‍💻 All of my projects are available at [commingsoon.com](commingsoon.com)
 
 - 📫 How to reach me **ankitrawat0102@gmail.com**

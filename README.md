@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=gargakshit"
-    alt="gargakshit"
+    src="https://komarev.com/ghpvc/?username=ankitt01"
+    alt="ankitt01"
   />
 </p>
 

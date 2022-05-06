@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://netflix-ankit.netlify.app"><img width="400" src="https://github.com/ankitt01/Resume/blob/main/public/images/netflix.PNG" /></a> 
-  <a href="https://crypto-tracker-website.netlify.app/"><img width="400" src="https://github.com/ankitt01/Resume/blob/main/public/images/crypto.PNG" /></a> 
+  <a href="https://crypto-tracker-website.netlify.app/"><img width="400" height="204.50px" src="https://github.com/ankitt01/Resume/blob/main/public/images/crypto.PNG" /></a> 
   <a href="https://airbnb-clone-website.vercel.app/"><img width="400" src="https://github.com/ankitt01/Resume/blob/main/public/images/airbnb.PNG" /> </a>
   <a href="https://amazon-nine-lyart.vercel.app/"><img width="400" src="https://github.com/ankitt01/Resume/blob/main/public/images/amazon.PNG" /></a>
 </p>
